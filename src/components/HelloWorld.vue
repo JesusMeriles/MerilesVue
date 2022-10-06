@@ -11,13 +11,7 @@
 
     <h3>La importancia de la esterilización</h3>
     <p>
-      La esterilización es un proceso quirúrgico, que consiste normalmente en la
-      extirpación de los testículos en los machos y los ovarios (o el útero o
-      los ovarios y el útero) en las hembras y que se hace para eliminar la
-      capacidad de reproducirse y reducir el deseo sexual de los perros. Debido
-      a la sobrepoblación de perros en algunos países, las asociaciones de
-      control de los animales aconsejan esterilizar los perros que no se piense
-      utilizar para criar, de manera que no tengan cachorros no deseados.
+     Ya sea si recién ha adoptado una mascota o si lo está considerando, una de las decisiones sanitarias más importantes que tomará es esterilizar o castrar a su gato o perro. Esterilización; remover los ovarios y útero de una mascota hembra, es un procedimiento de un veterinario que requiere hospitalización mínima y ofrece beneficios para la salud de por vida. Castrar; remover los testículos de su gato o perro macho, mejorará ampliamente la conducta de su mascota y lo mantendrá cerca de casa.
     </p>
     <li>
       <a
