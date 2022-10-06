@@ -28,7 +28,7 @@
       incluyen la leptospirosis, el parvovirus canino y el moquillo. Para
       protegerlos de ellas, los perros deben ser vacunados, así como también
       contra la rabia, enfermedad que se transmite al ser humano y es altamente
-      mortal.
+      mortal. ss
     </P>
     <li>
       <a
